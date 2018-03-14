@@ -1,0 +1,15 @@
+{
+    "title": "Project 1717",
+    "baseURL": "https:\/\/videos.project1717.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "project1717.com"
+    }
+}
